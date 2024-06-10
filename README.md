@@ -13,6 +13,7 @@ This mod requires [Fabric Api](https://www.curseforge.com/minecraft/mc-mods/fabr
 Make sure to add a PAT token.
 To do this first create a PAT (classic) token and give it repo access.
 Then head to settings -> Secretes and Variables -> Actions and add it as a repository secret
+Make sure to name it PAT
 
 ## Download
 
